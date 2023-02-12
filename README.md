@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header&text=Dear+user,+be+welcome!+:)&fontSize=25&fontColor=ADD8E6&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Victor+Silva;I'm+22+years+old;I'm+from+Brazil,+AP;I'm+academic+of+the+degree+course+in+physics;I've+studying+python+since+April+2022;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Victor+Silva;I'm+22+years+old;I'm+from+Brazil,+AP;I'm+academic+of+the+degree+course+in+physics;I've+studying+python+since+March+2022;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victors27&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=000080&text_color=ADD8E6&bg_color=0d1117" alt="Victor Silva github stats" /> 
